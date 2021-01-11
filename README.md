@@ -11,8 +11,6 @@
   </tr>
 </table>
 
-I've been developing web and mobile apps for over 6 years. I'm a great team player, have an extreme attention to details and an efficient workflow. Besides that I'm an owner of a web and mobile development agency Spark X.
-
 My name is Dima and I am a front-end engineer. I have strong experience in web and mobile development.I'm a great team player, have an extreme attention to details and an efficient workflow.
 
 My favourite frameworks are React and Vue.
