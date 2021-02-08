@@ -11,7 +11,7 @@
   </tr>
 </table>
 
-My name is Dima and I am a front-end engineer. I have strong experience in web and mobile development.I'm a great team player, have an extreme attention to details and an efficient workflow.
+My name is Dima and I am a front-end engineer. I have strong experience in web and mobile development. I'm a great team player, have an extreme attention to details and an efficient workflow.
 
 My favourite frameworks are React and Vue.
 
